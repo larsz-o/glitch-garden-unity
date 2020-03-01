@@ -1,0 +1,1675 @@
+fileFormatVersion: 2
+guid: d8672603834104db2aa619711df21ec5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6565591641599774752
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_0
+  - first:
+      213: 3612883661926973076
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_1
+  - first:
+      213: 635164510367949340
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_2
+  - first:
+      213: 7172757587072604950
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_3
+  - first:
+      213: -7426626953314874566
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_4
+  - first:
+      213: 7394052177934040845
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_5
+  - first:
+      213: -4917676655972677285
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_6
+  - first:
+      213: 8060066308499429712
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_7
+  - first:
+      213: -2912933745392178757
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_8
+  - first:
+      213: 4458886870130356595
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_9
+  - first:
+      213: 595397042796553377
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_10
+  - first:
+      213: 1071842628085248126
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_11
+  - first:
+      213: -1208219942948666233
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_12
+  - first:
+      213: -7602927307496198033
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_13
+  - first:
+      213: -1039340575520052971
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_14
+  - first:
+      213: -8545739607711181502
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_15
+  - first:
+      213: -9186047708783296353
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_16
+  - first:
+      213: -1153671348154681175
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_17
+  - first:
+      213: -3020958118225822989
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_18
+  - first:
+      213: -3274782677112980641
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_19
+  - first:
+      213: -3183855483520324705
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_20
+  - first:
+      213: 5762899793163429777
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_21
+  - first:
+      213: -4615749321058496633
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_22
+  - first:
+      213: 5349171056973178933
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_23
+  - first:
+      213: 4308354669816071333
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_24
+  - first:
+      213: -4929313191554963296
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_25
+  - first:
+      213: -4115947718656941249
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_26
+  - first:
+      213: -487179254799274452
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_27
+  - first:
+      213: -6713789596353288442
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_28
+  - first:
+      213: -5738530628283873077
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_29
+  - first:
+      213: -5320407566510898224
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_30
+  - first:
+      213: 8618576021761157225
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_31
+  - first:
+      213: 7796973166691132734
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_32
+  - first:
+      213: 7996698077241197389
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_33
+  - first:
+      213: 1463812607684926366
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_34
+  - first:
+      213: -5095370635785043912
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_35
+  - first:
+      213: -2293721198885295328
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_36
+  - first:
+      213: -217612109296108057
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_37
+  - first:
+      213: -4833574555465113037
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_38
+  - first:
+      213: -3748542504283625394
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_39
+  - first:
+      213: 6779172699904214246
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_40
+  - first:
+      213: -5021732539524693664
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_41
+  - first:
+      213: -1439328878295934552
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_42
+  - first:
+      213: -5882335441801391613
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_43
+  - first:
+      213: -2601987262059510154
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_44
+  - first:
+      213: -5696104055660221399
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_45
+  - first:
+      213: 5737283356811076078
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_46
+  - first:
+      213: 3654626011685030632
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_47
+  - first:
+      213: 8666811233722640794
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_48
+  - first:
+      213: 866851223580982561
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_49
+  - first:
+      213: 2363107295169186844
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_50
+  - first:
+      213: 3408068240630701595
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_51
+  - first:
+      213: 5798097090499277565
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_52
+  - first:
+      213: -1930954377738982919
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_53
+  - first:
+      213: -3672784031291370718
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_54
+  - first:
+      213: 3742856158350569373
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_55
+  - first:
+      213: 74102991875407533
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_56
+  - first:
+      213: -2983857178426646216
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_57
+  - first:
+      213: 6651820321364200398
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_58
+  - first:
+      213: 892828106280265619
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_59
+  - first:
+      213: 4048601799486438821
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_60
+  - first:
+      213: -6991481141813022608
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_61
+  - first:
+      213: 8778001307916619954
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_62
+  - first:
+      213: -925306584687340247
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_63
+  - first:
+      213: 8280135825579667844
+    second: npc_piggy__x1_too_much_nibble_png_1354829441_64
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef077a2305d1540f492a928d66c3aa70
+      internalID: -6565591641599774752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 310
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0673df3b11844289e412e45bfa1b42
+      internalID: 3612883661926973076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 310
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd0e47b07f46430fa13da72280bb9f1
+      internalID: 635164510367949340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 310
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7452bd49699545e29bd6b8d7f001b15
+      internalID: 7172757587072604950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 310
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adc5cfa12c674fb3be68067539b84e4
+      internalID: -7426626953314874566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_5
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 310
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637db4dc4abc844239cc6f0aa2d09989
+      internalID: 7394052177934040845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_6
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 310
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a6cc758f25142a19ade9276368a1cf
+      internalID: -4917676655972677285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_7
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 310
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be6d44c5dcf144f68b7dd8f388be569
+      internalID: 8060066308499429712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_8
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 310
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae13003c4827422ea6e0a87d2dc52f5
+      internalID: -2912933745392178757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_9
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 310
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10014e678ca944a9a86947294db680b0
+      internalID: 4458886870130356595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_10
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 310
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8d1aaded2184e18a45b0931f4897da
+      internalID: 595397042796553377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac3eb44e6b624661b171e7c78e3d267
+      internalID: 1071842628085248126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205741466f6dd4d8fbaa01e370753c08
+      internalID: -1208219942948666233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f7f7c0d98c24148bb6c8f52393d772
+      internalID: -7602927307496198033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_14
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3701ccd2f8b04c4495456221154d7e6
+      internalID: -1039340575520052971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cd1af14dcfa4c67aad207abef495a3
+      internalID: -8545739607711181502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_16
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b16b8621c8734ad6ad7442779b0a4fe
+      internalID: -9186047708783296353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_17
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8121d79b3198b41a68717555d07da314
+      internalID: -1153671348154681175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_18
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b1c922a6519475393d4c3e13d0bf9c
+      internalID: -3020958118225822989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_19
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b540eb94708b4c60b0fdef84064781e
+      internalID: -3274782677112980641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_20
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac4ebc97bf384792aab64687ad9eca5
+      internalID: -3183855483520324705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_21
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 248
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31bd954f47a84ecbb22b8b078becf23
+      internalID: 5762899793163429777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974476becce6941a28af89e63892f65a
+      internalID: -4615749321058496633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_23
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0808e9a450cf419b972e72a6a1bf608
+      internalID: 5349171056973178933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98efe92cc63c4decb421dc3b8532e6c
+      internalID: 4308354669816071333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_25
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d6333b4692546f485cc4dc207af01e
+      internalID: -4929313191554963296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050492d9d2f28442d8791a083555794a
+      internalID: -4115947718656941249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_27
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f9a15c3b9f7455dbb60cf4cfeca74c
+      internalID: -487179254799274452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_28
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96357cfaa7cf14c3baa6060f5d07f7c2
+      internalID: -6713789596353288442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_29
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acc0bfffd4954586b03b57f18efca9c
+      internalID: -5738530628283873077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_30
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368502d417234465995faa019be679de
+      internalID: -5320407566510898224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_31
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bf011d67b9b40ab91acb505fbade82
+      internalID: 8618576021761157225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_32
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 186
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2c72a01a53e4553a9982b98af41bb8
+      internalID: 7796973166691132734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a691abd006c4dcf82ab042a2a96f1f
+      internalID: 7996698077241197389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_34
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf958a374bf64bee883e4f367f1a906
+      internalID: 1463812607684926366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_35
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73eaef917b365468d9f620f452c801d8
+      internalID: -5095370635785043912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_36
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6c4dd17bee04b5f8c79159a7fb48fa
+      internalID: -2293721198885295328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_37
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4274a6181d07c4c588d9a7ab887b399f
+      internalID: -217612109296108057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_38
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f0635fb400a49bf9317a290e57abf2
+      internalID: -4833574555465113037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_39
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2d2ba9634af4d0883b54f272a2bb31
+      internalID: -3748542504283625394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_40
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2d22c85e548454aab9ae06b704276d
+      internalID: 6779172699904214246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_41
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05aace373b2fb4c71bb00b8596f5ece8
+      internalID: -5021732539524693664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_42
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538f91b2d02ce44f59027129c64745cb
+      internalID: -1439328878295934552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_43
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 124
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5716fcd46746149edbf1a1a201914d04
+      internalID: -5882335441801391613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf574c900532432abbafc934ccb13a0
+      internalID: -2601987262059510154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_45
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e69769d61c2d4e0891eec412d1471ee
+      internalID: -5696104055660221399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_46
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5455e6224c3489f80b65210a629710
+      internalID: 5737283356811076078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_47
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c394f0bd57cba49b0a1645f72a7aa8bd
+      internalID: 3654626011685030632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_48
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4af5e5e30b14811af03d735f0b02ff
+      internalID: 8666811233722640794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_49
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b23807523f4d482eac469180d95671c
+      internalID: 866851223580982561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_50
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8d856063f27475aa31952c5ca7f942
+      internalID: 2363107295169186844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_51
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbabbb28d956248729eb5898b457d424
+      internalID: 3408068240630701595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_52
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0029392c99f4beea6709fc659b5ff1
+      internalID: 5798097090499277565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_53
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0d7fdc6918c441c885093894ab70f2
+      internalID: -1930954377738982919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_54
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 62
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be741882a2114721b05d9ae787f6f57
+      internalID: -3672784031291370718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08641ff81a4f7404db2dfa53cd4988e8
+      internalID: 3742856158350569373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_56
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27015c8cd84ae42dcad504965d25c585
+      internalID: 74102991875407533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_57
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07488b596633d4588b6125849be167c0
+      internalID: -2983857178426646216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_58
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceac185a7fcb04b32a241cad18909b1b
+      internalID: 6651820321364200398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3a1b231e2c9477382b694bbed49a71
+      internalID: 892828106280265619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_60
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87180b8c451da4ae0b1efe34e199598b
+      internalID: 4048601799486438821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_61
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f293b824cc9df41908b0f7841aa485a4
+      internalID: -6991481141813022608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_62
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9fbab877f974ebea661ada59d6d187
+      internalID: 8778001307916619954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_63
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9764088e09094c7aa06d7033a3fc266
+      internalID: -925306584687340247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_piggy__x1_too_much_nibble_png_1354829441_64
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e370896cc80b54b69af64354ec961f79
+      internalID: 8280135825579667844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

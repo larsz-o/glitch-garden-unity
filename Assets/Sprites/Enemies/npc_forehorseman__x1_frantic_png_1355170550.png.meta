@@ -1,0 +1,2371 @@
+fileFormatVersion: 2
+guid: 4b889075fc03a4b4888e651abfb67fe8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8624231762571227570
+    second: npc_forehorseman__x1_frantic_png_1355170550_0
+  - first:
+      213: -6766583380856336110
+    second: npc_forehorseman__x1_frantic_png_1355170550_1
+  - first:
+      213: 465437312639225541
+    second: npc_forehorseman__x1_frantic_png_1355170550_2
+  - first:
+      213: 1954572532071363482
+    second: npc_forehorseman__x1_frantic_png_1355170550_3
+  - first:
+      213: -7718670059016769324
+    second: npc_forehorseman__x1_frantic_png_1355170550_4
+  - first:
+      213: -3266383159231558159
+    second: npc_forehorseman__x1_frantic_png_1355170550_5
+  - first:
+      213: -3757862902246399499
+    second: npc_forehorseman__x1_frantic_png_1355170550_6
+  - first:
+      213: 5173484756755576188
+    second: npc_forehorseman__x1_frantic_png_1355170550_7
+  - first:
+      213: -6932821529324507874
+    second: npc_forehorseman__x1_frantic_png_1355170550_8
+  - first:
+      213: 1521738036603722567
+    second: npc_forehorseman__x1_frantic_png_1355170550_9
+  - first:
+      213: 5858435129138412109
+    second: npc_forehorseman__x1_frantic_png_1355170550_10
+  - first:
+      213: -7159396439578595433
+    second: npc_forehorseman__x1_frantic_png_1355170550_11
+  - first:
+      213: 4758207847039946747
+    second: npc_forehorseman__x1_frantic_png_1355170550_12
+  - first:
+      213: 2618785754996964733
+    second: npc_forehorseman__x1_frantic_png_1355170550_13
+  - first:
+      213: -6667880084403702749
+    second: npc_forehorseman__x1_frantic_png_1355170550_14
+  - first:
+      213: 2548973657246033685
+    second: npc_forehorseman__x1_frantic_png_1355170550_15
+  - first:
+      213: 8568973262148656657
+    second: npc_forehorseman__x1_frantic_png_1355170550_16
+  - first:
+      213: 8419514430864766389
+    second: npc_forehorseman__x1_frantic_png_1355170550_17
+  - first:
+      213: 3675779123679776392
+    second: npc_forehorseman__x1_frantic_png_1355170550_18
+  - first:
+      213: -1818823379914326947
+    second: npc_forehorseman__x1_frantic_png_1355170550_19
+  - first:
+      213: 1212755228309803086
+    second: npc_forehorseman__x1_frantic_png_1355170550_20
+  - first:
+      213: -9213474592926231859
+    second: npc_forehorseman__x1_frantic_png_1355170550_21
+  - first:
+      213: 3958217818910117019
+    second: npc_forehorseman__x1_frantic_png_1355170550_22
+  - first:
+      213: -2930021788371352425
+    second: npc_forehorseman__x1_frantic_png_1355170550_23
+  - first:
+      213: 4959996137143182439
+    second: npc_forehorseman__x1_frantic_png_1355170550_24
+  - first:
+      213: -7838571236260108023
+    second: npc_forehorseman__x1_frantic_png_1355170550_25
+  - first:
+      213: -6377733788555637803
+    second: npc_forehorseman__x1_frantic_png_1355170550_26
+  - first:
+      213: 718244961870196778
+    second: npc_forehorseman__x1_frantic_png_1355170550_27
+  - first:
+      213: 8410427896490484938
+    second: npc_forehorseman__x1_frantic_png_1355170550_28
+  - first:
+      213: -7834856440880252564
+    second: npc_forehorseman__x1_frantic_png_1355170550_29
+  - first:
+      213: -2537921615345721218
+    second: npc_forehorseman__x1_frantic_png_1355170550_30
+  - first:
+      213: -8893625646241167419
+    second: npc_forehorseman__x1_frantic_png_1355170550_31
+  - first:
+      213: -4771613333377456917
+    second: npc_forehorseman__x1_frantic_png_1355170550_32
+  - first:
+      213: -2541038169460538447
+    second: npc_forehorseman__x1_frantic_png_1355170550_33
+  - first:
+      213: -3245709763216027655
+    second: npc_forehorseman__x1_frantic_png_1355170550_34
+  - first:
+      213: 9082449703945524278
+    second: npc_forehorseman__x1_frantic_png_1355170550_35
+  - first:
+      213: 8723599528553221822
+    second: npc_forehorseman__x1_frantic_png_1355170550_36
+  - first:
+      213: -1934888928825304352
+    second: npc_forehorseman__x1_frantic_png_1355170550_37
+  - first:
+      213: -4276170094548434268
+    second: npc_forehorseman__x1_frantic_png_1355170550_38
+  - first:
+      213: 6292201151433607850
+    second: npc_forehorseman__x1_frantic_png_1355170550_39
+  - first:
+      213: 5072218631874566556
+    second: npc_forehorseman__x1_frantic_png_1355170550_40
+  - first:
+      213: 6478916917921133630
+    second: npc_forehorseman__x1_frantic_png_1355170550_41
+  - first:
+      213: -2052928216926960842
+    second: npc_forehorseman__x1_frantic_png_1355170550_42
+  - first:
+      213: 5651413967647596694
+    second: npc_forehorseman__x1_frantic_png_1355170550_43
+  - first:
+      213: -3437050850175292728
+    second: npc_forehorseman__x1_frantic_png_1355170550_44
+  - first:
+      213: -6876114243703653021
+    second: npc_forehorseman__x1_frantic_png_1355170550_45
+  - first:
+      213: 5820090132235795633
+    second: npc_forehorseman__x1_frantic_png_1355170550_46
+  - first:
+      213: -1510420971466796929
+    second: npc_forehorseman__x1_frantic_png_1355170550_47
+  - first:
+      213: 3352133817433538610
+    second: npc_forehorseman__x1_frantic_png_1355170550_48
+  - first:
+      213: 5378126855851841498
+    second: npc_forehorseman__x1_frantic_png_1355170550_49
+  - first:
+      213: 8118125056240339420
+    second: npc_forehorseman__x1_frantic_png_1355170550_50
+  - first:
+      213: 6124725500239556051
+    second: npc_forehorseman__x1_frantic_png_1355170550_51
+  - first:
+      213: 7831438521552434886
+    second: npc_forehorseman__x1_frantic_png_1355170550_52
+  - first:
+      213: 3853537542432522418
+    second: npc_forehorseman__x1_frantic_png_1355170550_53
+  - first:
+      213: -5699468807616499597
+    second: npc_forehorseman__x1_frantic_png_1355170550_54
+  - first:
+      213: -3878188634488294361
+    second: npc_forehorseman__x1_frantic_png_1355170550_55
+  - first:
+      213: -662120201743107032
+    second: npc_forehorseman__x1_frantic_png_1355170550_56
+  - first:
+      213: -9017342922082560419
+    second: npc_forehorseman__x1_frantic_png_1355170550_57
+  - first:
+      213: 119322615217362949
+    second: npc_forehorseman__x1_frantic_png_1355170550_58
+  - first:
+      213: 9057237311179764602
+    second: npc_forehorseman__x1_frantic_png_1355170550_59
+  - first:
+      213: 3437972906696348246
+    second: npc_forehorseman__x1_frantic_png_1355170550_60
+  - first:
+      213: -8543800536638431647
+    second: npc_forehorseman__x1_frantic_png_1355170550_61
+  - first:
+      213: 8221770208935835046
+    second: npc_forehorseman__x1_frantic_png_1355170550_62
+  - first:
+      213: 5796003006980917285
+    second: npc_forehorseman__x1_frantic_png_1355170550_63
+  - first:
+      213: -8388589096022399924
+    second: npc_forehorseman__x1_frantic_png_1355170550_64
+  - first:
+      213: -2032465872380615810
+    second: npc_forehorseman__x1_frantic_png_1355170550_65
+  - first:
+      213: -7599331346357138829
+    second: npc_forehorseman__x1_frantic_png_1355170550_66
+  - first:
+      213: 5563207370126229131
+    second: npc_forehorseman__x1_frantic_png_1355170550_67
+  - first:
+      213: 8865350493781107391
+    second: npc_forehorseman__x1_frantic_png_1355170550_68
+  - first:
+      213: 7089386226034341913
+    second: npc_forehorseman__x1_frantic_png_1355170550_69
+  - first:
+      213: -8213673871266320095
+    second: npc_forehorseman__x1_frantic_png_1355170550_70
+  - first:
+      213: -819497559752067156
+    second: npc_forehorseman__x1_frantic_png_1355170550_71
+  - first:
+      213: 5594112151660650497
+    second: npc_forehorseman__x1_frantic_png_1355170550_72
+  - first:
+      213: 1150463710284512066
+    second: npc_forehorseman__x1_frantic_png_1355170550_73
+  - first:
+      213: 8657393951420560892
+    second: npc_forehorseman__x1_frantic_png_1355170550_74
+  - first:
+      213: -1670353293106665480
+    second: npc_forehorseman__x1_frantic_png_1355170550_75
+  - first:
+      213: -8320282160455750099
+    second: npc_forehorseman__x1_frantic_png_1355170550_76
+  - first:
+      213: 1167376217999153100
+    second: npc_forehorseman__x1_frantic_png_1355170550_77
+  - first:
+      213: -6349188484818475781
+    second: npc_forehorseman__x1_frantic_png_1355170550_78
+  - first:
+      213: -1600835461393167001
+    second: npc_forehorseman__x1_frantic_png_1355170550_79
+  - first:
+      213: 3818760918776455556
+    second: npc_forehorseman__x1_frantic_png_1355170550_80
+  - first:
+      213: 1656306367547957695
+    second: npc_forehorseman__x1_frantic_png_1355170550_81
+  - first:
+      213: 5603816082524323422
+    second: npc_forehorseman__x1_frantic_png_1355170550_82
+  - first:
+      213: 4222499695335717534
+    second: npc_forehorseman__x1_frantic_png_1355170550_83
+  - first:
+      213: -8802690335629815568
+    second: npc_forehorseman__x1_frantic_png_1355170550_84
+  - first:
+      213: -3391462908521316105
+    second: npc_forehorseman__x1_frantic_png_1355170550_85
+  - first:
+      213: -5267137657380192681
+    second: npc_forehorseman__x1_frantic_png_1355170550_86
+  - first:
+      213: -7395223146159165135
+    second: npc_forehorseman__x1_frantic_png_1355170550_87
+  - first:
+      213: -7342762077565426380
+    second: npc_forehorseman__x1_frantic_png_1355170550_88
+  - first:
+      213: 5031990780525998528
+    second: npc_forehorseman__x1_frantic_png_1355170550_89
+  - first:
+      213: 9077143776992836629
+    second: npc_forehorseman__x1_frantic_png_1355170550_90
+  - first:
+      213: 5622305757399581761
+    second: npc_forehorseman__x1_frantic_png_1355170550_91
+  - first:
+      213: -2873412825458601389
+    second: npc_forehorseman__x1_frantic_png_1355170550_92
+  - first:
+      213: 428949920833643393
+    second: npc_forehorseman__x1_frantic_png_1355170550_93
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3636
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06557033f4e54c30a774eb15a8e948e
+      internalID: -8624231762571227570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3636
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f1953ba77124b59af8a8a5183696a6
+      internalID: -6766583380856336110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_2
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 3636
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a55a1d5e93a4aa6a61f0ddc37b74f4
+      internalID: 465437312639225541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_3
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 3636
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9317fe9552c8f4802950ffc60659cdd4
+      internalID: 1954572532071363482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_4
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 3636
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38c80404e2344b0e9ddfc75af3b6d54
+      internalID: -7718670059016769324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3434
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e682dd4fd49b84b238907411e099b429
+      internalID: -3266383159231558159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3434
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd88572c2de64f18902291307bf1815
+      internalID: -3757862902246399499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_7
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 3434
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b45869d81ef842439ce52209a4e3976
+      internalID: 5173484756755576188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_8
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 3434
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb919f240d50d487d896d2230b7f4d38
+      internalID: -6932821529324507874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_9
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 3434
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cea7a18eb134f448b4e6eb4bf03ab8
+      internalID: 1521738036603722567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3232
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5c493c738dd420aa47ec0761f36cc1
+      internalID: 5858435129138412109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3232
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72c739b5ea1d477d87342226be50ebb
+      internalID: -7159396439578595433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_12
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 3232
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b97afbc80a248109f04115b80e28eb
+      internalID: 4758207847039946747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_13
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 3232
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd37ceb3d3f2541c8b9d839cb0430996
+      internalID: 2618785754996964733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_14
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 3232
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf49f4bce494e455296ec9e3ec0c2de5
+      internalID: -6667880084403702749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3030
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bf1cbffcef04d0bac741c733776eb2
+      internalID: 2548973657246033685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3030
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39028017a12448ec862a8de5e64644d
+      internalID: 8568973262148656657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_17
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 3030
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f28ebf81422433a834fc630ab0c668
+      internalID: 8419514430864766389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_18
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 3030
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b4ec583551241819a71b95076096ec
+      internalID: 3675779123679776392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_19
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 3030
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba91ca575c54b4faba500729211b46e7
+      internalID: -1818823379914326947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2828
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743345463ca8a4b2688b8db247b4d8a5
+      internalID: 1212755228309803086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_21
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2828
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94259068e1a6249d28ded960bc9d678e
+      internalID: -9213474592926231859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_22
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2828
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3418f3bd0823467b9aa2f74763e25e7
+      internalID: 3958217818910117019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_23
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2828
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371e1f8b7a9c1470db51060fc7075194
+      internalID: -2930021788371352425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_24
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 2828
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba07ad4723056485cbc5a9a1475276ac
+      internalID: 4959996137143182439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2626
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6affef3900e64f3c95159f39dd6dc67
+      internalID: -7838571236260108023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_26
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2626
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42952d55aef3a447e8909d4c6812ca0f
+      internalID: -6377733788555637803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_27
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2626
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4713989e38d4394a2e3d601122df5b
+      internalID: 718244961870196778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_28
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2626
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c419069b324164eed830b7264b259d51
+      internalID: 8410427896490484938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_29
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 2626
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872cd21f911bb4b079e90bc1343fdfb7
+      internalID: -7834856440880252564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2424
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f80217b989f942a1b319e4ed57f12e9
+      internalID: -2537921615345721218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_31
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2424
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01cdef67c1594f17a93f849216d22a7
+      internalID: -8893625646241167419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_32
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2424
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7971319b10348ddb0403fedcdc6a89
+      internalID: -4771613333377456917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_33
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2424
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e690cae722d4c4fb455365ec499883
+      internalID: -2541038169460538447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_34
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 2424
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fac0ae1e1ec479a93b838458487daf
+      internalID: -3245709763216027655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2222
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9288986d0e04127810846272760253
+      internalID: 9082449703945524278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_36
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2222
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4f927e923ff4c9eb7d93ffbf8f0c29
+      internalID: 8723599528553221822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_37
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2222
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c90983189b54cae9f6075772a4ef4a
+      internalID: -1934888928825304352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_38
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2222
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82ab71346ace40d9991f58d0e20108f
+      internalID: -4276170094548434268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_39
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 2222
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26901199715be4631b9302486347a4ac
+      internalID: 6292201151433607850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2020
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9d40b9f579b437a97588250cc5c827
+      internalID: 5072218631874566556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_41
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2020
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e1d51551b3c4f6ea6da5ea2dae235d
+      internalID: 6478916917921133630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_42
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2020
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483210a36da4b4dec848d88c165f82fa
+      internalID: -2052928216926960842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_43
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2020
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316ef0dfb938a4b6bba4da7129bcd71c
+      internalID: 5651413967647596694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_44
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 2020
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f501a5d209ad47409a375b3695e2323
+      internalID: -3437050850175292728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1818
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2e5fa117398419db553e879b302657
+      internalID: -6876114243703653021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_46
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1818
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5baec8f60dc74c0cb356c23d9f630e1
+      internalID: 5820090132235795633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_47
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1818
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d70dbcf54244540afab282057ae2e0
+      internalID: -1510420971466796929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_48
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1818
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5cc996761a3492c9d32d7ef7f5b29b
+      internalID: 3352133817433538610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_49
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1818
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c903579e1433c45acb6d76038f7eb0c3
+      internalID: 5378126855851841498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1616
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47257051705994ad68a32ae6fecdf9c6
+      internalID: 8118125056240339420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_51
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1616
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43df9b334a0ba4fdb93c48e1aaa6f372
+      internalID: 6124725500239556051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_52
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1616
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18720dbb2523424f840e0f69ebde966
+      internalID: 7831438521552434886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_53
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1616
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01249564b4c5445b69ba8035e3e5cd35
+      internalID: 3853537542432522418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_54
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1616
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f8b4ba54ea3408b9957e2335e8a26d
+      internalID: -5699468807616499597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1414
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5781255bb4e455cb3348c419050b29
+      internalID: -3878188634488294361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_56
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1414
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfffeb95c36564ccea694603bfcc35ab
+      internalID: -662120201743107032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_57
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1414
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb636a2d7e7054d0a8127c7d85bb26d8
+      internalID: -9017342922082560419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_58
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1414
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ab1e994f2e04d57a9aae55f92f1709
+      internalID: 119322615217362949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_59
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1414
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adb5a9dafc754a2bafce2d420c4b633
+      internalID: 9057237311179764602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1212
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f14d5734b9d8432ca0d3b6864752d51
+      internalID: 3437972906696348246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_61
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1212
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f1acf8cd45348e78e1b9d586555144
+      internalID: -8543800536638431647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_62
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1212
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ecd4ce6cd4c43ee96f5f45963c0dda
+      internalID: 8221770208935835046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_63
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1212
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca1c54dbf3c7401394bf590aed6fb67
+      internalID: 5796003006980917285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_64
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1212
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294b5711e971448a08a91f5f9b154e2d
+      internalID: -8388589096022399924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1010
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a9c1f32c6ce418b902471011b1d8b4
+      internalID: -2032465872380615810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_66
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1010
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3aed6f66c4f4f04a9eac9d4903fb12
+      internalID: -7599331346357138829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_67
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1010
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca635ba16d2e9416da0af4a061d3da9e
+      internalID: 5563207370126229131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_68
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1010
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf46b7a4c7024de3a8f4d52623e241a
+      internalID: 8865350493781107391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_69
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1010
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2532da08d2443719ed39d483faf1da
+      internalID: 7089386226034341913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 808
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64ee87df3baa4afc873067b648ca828
+      internalID: -8213673871266320095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_71
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 808
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26503f8004dfb4128b6d267ab797cfaf
+      internalID: -819497559752067156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_72
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 808
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01a482c46a7f4f87b6112adb0275654
+      internalID: 5594112151660650497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_73
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 808
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd075c4d1e9a434c809d7ae12a6c668
+      internalID: 1150463710284512066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_74
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 808
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6465e3a3d1954120ad61a6bd28dfc64
+      internalID: 8657393951420560892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 606
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1345f371ac104f978b7fe2cba430b10
+      internalID: -1670353293106665480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_76
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 606
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e7faf2c962d451896c5d78b28fbc79
+      internalID: -8320282160455750099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_77
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 606
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d9ca2292dab4352a210604d4e469d4
+      internalID: 1167376217999153100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_78
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 606
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f125c4128509495793868d556659fb5
+      internalID: -6349188484818475781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_79
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 606
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9798d086fcf441191785401533651a
+      internalID: -1600835461393167001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738788ef3f3824031aafce7fb6cc5107
+      internalID: 3818760918776455556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_81
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 404
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd02cccab789434c9e570e241de6f08
+      internalID: 1656306367547957695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_82
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 404
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b319e52fef46c43ab88a288b7b071abe
+      internalID: 5603816082524323422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_83
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 404
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dcf9f930cd240809bf640f633ba685
+      internalID: 4222499695335717534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_84
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 404
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5591e7af69bff4ae1af2f117cc645458
+      internalID: -8802690335629815568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1558a053c49904880aef2464b46cd8c3
+      internalID: -3391462908521316105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_86
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 202
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50801da6311824e048a33bfa9fb614a4
+      internalID: -5267137657380192681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_87
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 202
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2663fca676a4f29b4f5ed2d6ecf5c6
+      internalID: -7395223146159165135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_88
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 202
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81137757918c547b4826672d5bc44215
+      internalID: -7342762077565426380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_89
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 202
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5698e3d04494e37908ee64549f5aaa
+      internalID: 5031990780525998528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f359a2630294ca2aeff3c198a7d8cc
+      internalID: 9077143776992836629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_91
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9547bca18264bb8897f5489eb4afe0
+      internalID: 5622305757399581761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_92
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 0
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d46d5f664764f23955122d214496f8
+      internalID: -2873412825458601389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_forehorseman__x1_frantic_png_1355170550_93
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 0
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3d67b34dba049f2a27d2a464e8eccc
+      internalID: 428949920833643393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
