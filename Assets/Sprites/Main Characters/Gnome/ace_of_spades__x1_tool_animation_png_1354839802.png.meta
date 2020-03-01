@@ -1,0 +1,1387 @@
+fileFormatVersion: 2
+guid: b601a15f94a97485b8c06eebd4924e68
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4228574745172316747
+    second: ace_of_spades__x1_tool_animation_png_1354839802_0
+  - first:
+      213: 5790034266399827737
+    second: ace_of_spades__x1_tool_animation_png_1354839802_1
+  - first:
+      213: -6946537495644551613
+    second: ace_of_spades__x1_tool_animation_png_1354839802_2
+  - first:
+      213: 1858273953674493541
+    second: ace_of_spades__x1_tool_animation_png_1354839802_3
+  - first:
+      213: 386437426495640841
+    second: ace_of_spades__x1_tool_animation_png_1354839802_4
+  - first:
+      213: 6239801537679484396
+    second: ace_of_spades__x1_tool_animation_png_1354839802_5
+  - first:
+      213: 766871482213780927
+    second: ace_of_spades__x1_tool_animation_png_1354839802_6
+  - first:
+      213: 3233393343356547691
+    second: ace_of_spades__x1_tool_animation_png_1354839802_7
+  - first:
+      213: -9104286067486941200
+    second: ace_of_spades__x1_tool_animation_png_1354839802_8
+  - first:
+      213: 8002421372348239860
+    second: ace_of_spades__x1_tool_animation_png_1354839802_9
+  - first:
+      213: -6338853553034513986
+    second: ace_of_spades__x1_tool_animation_png_1354839802_10
+  - first:
+      213: 4640671583070632901
+    second: ace_of_spades__x1_tool_animation_png_1354839802_11
+  - first:
+      213: 3159882421870740529
+    second: ace_of_spades__x1_tool_animation_png_1354839802_12
+  - first:
+      213: 5441077766436309087
+    second: ace_of_spades__x1_tool_animation_png_1354839802_13
+  - first:
+      213: -7962829876177037864
+    second: ace_of_spades__x1_tool_animation_png_1354839802_14
+  - first:
+      213: 2384786899362761472
+    second: ace_of_spades__x1_tool_animation_png_1354839802_15
+  - first:
+      213: 8926715436169820641
+    second: ace_of_spades__x1_tool_animation_png_1354839802_16
+  - first:
+      213: -8692379761132340739
+    second: ace_of_spades__x1_tool_animation_png_1354839802_17
+  - first:
+      213: 2831994443203894302
+    second: ace_of_spades__x1_tool_animation_png_1354839802_18
+  - first:
+      213: -2863179230339014906
+    second: ace_of_spades__x1_tool_animation_png_1354839802_19
+  - first:
+      213: 310876272940554944
+    second: ace_of_spades__x1_tool_animation_png_1354839802_20
+  - first:
+      213: 3751241667614224198
+    second: ace_of_spades__x1_tool_animation_png_1354839802_21
+  - first:
+      213: -4200120559805932058
+    second: ace_of_spades__x1_tool_animation_png_1354839802_22
+  - first:
+      213: -3236523253745396812
+    second: ace_of_spades__x1_tool_animation_png_1354839802_23
+  - first:
+      213: -3032740503795088050
+    second: ace_of_spades__x1_tool_animation_png_1354839802_24
+  - first:
+      213: -918405612435660749
+    second: ace_of_spades__x1_tool_animation_png_1354839802_25
+  - first:
+      213: 3817056866990179935
+    second: ace_of_spades__x1_tool_animation_png_1354839802_26
+  - first:
+      213: 8954760629324178666
+    second: ace_of_spades__x1_tool_animation_png_1354839802_27
+  - first:
+      213: 5796783475399560290
+    second: ace_of_spades__x1_tool_animation_png_1354839802_28
+  - first:
+      213: -5620106511593690936
+    second: ace_of_spades__x1_tool_animation_png_1354839802_29
+  - first:
+      213: -5048804566348828698
+    second: ace_of_spades__x1_tool_animation_png_1354839802_30
+  - first:
+      213: -8494805273575602987
+    second: ace_of_spades__x1_tool_animation_png_1354839802_31
+  - first:
+      213: -706641914183044257
+    second: ace_of_spades__x1_tool_animation_png_1354839802_32
+  - first:
+      213: 5699469645779753884
+    second: ace_of_spades__x1_tool_animation_png_1354839802_33
+  - first:
+      213: 1797219270053878102
+    second: ace_of_spades__x1_tool_animation_png_1354839802_34
+  - first:
+      213: -6920666641712574939
+    second: ace_of_spades__x1_tool_animation_png_1354839802_35
+  - first:
+      213: -8845049441409197577
+    second: ace_of_spades__x1_tool_animation_png_1354839802_36
+  - first:
+      213: -9167549124522450923
+    second: ace_of_spades__x1_tool_animation_png_1354839802_37
+  - first:
+      213: -1374729528644406284
+    second: ace_of_spades__x1_tool_animation_png_1354839802_38
+  - first:
+      213: 1030227941257171044
+    second: ace_of_spades__x1_tool_animation_png_1354839802_39
+  - first:
+      213: -5119983994884809250
+    second: ace_of_spades__x1_tool_animation_png_1354839802_40
+  - first:
+      213: -2154447972389974431
+    second: ace_of_spades__x1_tool_animation_png_1354839802_41
+  - first:
+      213: 8742375287849721611
+    second: ace_of_spades__x1_tool_animation_png_1354839802_42
+  - first:
+      213: -6862287780365794600
+    second: ace_of_spades__x1_tool_animation_png_1354839802_43
+  - first:
+      213: -7785819245552007078
+    second: ace_of_spades__x1_tool_animation_png_1354839802_44
+  - first:
+      213: 2468974306422186272
+    second: ace_of_spades__x1_tool_animation_png_1354839802_45
+  - first:
+      213: 5797757786816326823
+    second: ace_of_spades__x1_tool_animation_png_1354839802_46
+  - first:
+      213: -8992694023046695012
+    second: ace_of_spades__x1_tool_animation_png_1354839802_47
+  - first:
+      213: -2228047582557784209
+    second: ace_of_spades__x1_tool_animation_png_1354839802_48
+  - first:
+      213: -4348837792128377280
+    second: ace_of_spades__x1_tool_animation_png_1354839802_49
+  - first:
+      213: 6371577475161865598
+    second: ace_of_spades__x1_tool_animation_png_1354839802_50
+  - first:
+      213: 5905782371607488455
+    second: ace_of_spades__x1_tool_animation_png_1354839802_51
+  - first:
+      213: -1926789385831226649
+    second: ace_of_spades__x1_tool_animation_png_1354839802_52
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 237
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e148b12a55eab4ff19d01a16a1ca3301
+      internalID: 4228574745172316747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 237
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b9b1f8f52b545b18b7ff8e99befefa
+      internalID: 5790034266399827737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 237
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48a718bda5214b07bddc8dbe2f2553a
+      internalID: -6946537495644551613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 237
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544ce23281800438a9a8d33404053fb4
+      internalID: 1858273953674493541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 237
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b18cc62154f4b889d0989373f0b44f
+      internalID: 386437426495640841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 237
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8795c268043064972a65008eb53c6f29
+      internalID: 6239801537679484396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_6
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 237
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd38b0de8a4949209d9b8a8b072ba47
+      internalID: 766871482213780927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_7
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 237
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9a7eb28763e49fc98e6178af528285
+      internalID: 3233393343356547691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_8
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 237
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d59e2302c5a44a494b4374335aa67b
+      internalID: -9104286067486941200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_9
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 237
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78566a0284074eb0965227302bf7eb4
+      internalID: 8002421372348239860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_10
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 237
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7ae6267a6f04394816adef026f3b56
+      internalID: -6338853553034513986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_11
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 237
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5657b2214074a48bfd985f892d6385
+      internalID: 4640671583070632901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_12
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 237
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20659cb4e6bfa4f90960e4f261e3de25
+      internalID: 3159882421870740529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_13
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 237
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a85033775c5b4f7eacd5e47bfc5b53b
+      internalID: 5441077766436309087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd8420a4ef404732b6d78913d5206ad
+      internalID: -7962829876177037864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 158
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062592fc7cf584bf9b8faab7768181e5
+      internalID: 2384786899362761472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_16
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 158
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1f5c18ca39e47f4b7260f1c7c046ad
+      internalID: 8926715436169820641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_17
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 158
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c553277bc8fe4102b7b6182d22383c1
+      internalID: -8692379761132340739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_18
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 158
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d3c84329cc34d2f92a6fd44de4475f
+      internalID: 2831994443203894302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_19
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 158
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84171f4e363540629c8cd507031da25
+      internalID: -2863179230339014906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_20
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 158
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e80f6a3131264b0781cc4eafefacab0
+      internalID: 310876272940554944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_21
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 158
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f12ae876b854019b20f98d85c0ab04
+      internalID: 3751241667614224198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_22
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 158
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326441392c88b4bb080ec6e87f565239
+      internalID: -4200120559805932058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_23
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 158
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053820bcaec84429bb5a7a2520fe9b4d
+      internalID: -3236523253745396812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_24
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 158
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81bc65837bdc452ea7bab39f594460c
+      internalID: -3032740503795088050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_25
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 158
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd993def224d41c5943d3ba89d557ab
+      internalID: -918405612435660749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_26
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 158
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451fbc668e2934e7aae0d965b70f8a2b
+      internalID: 3817056866990179935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_27
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 158
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49dd2def5c9f4a5ca106408dc9e51d4
+      internalID: 8954760629324178666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda528c92e8494b2aa51be98157a8af0
+      internalID: 5796783475399560290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_29
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 79
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edc18e6765dc46f0b97cea8a611b7e8
+      internalID: -5620106511593690936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_30
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 79
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7462dc46db4ba46349198160eb2ffefa
+      internalID: -5048804566348828698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_31
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 79
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcfc53f163f248a9a63d7eea54e2dbc
+      internalID: -8494805273575602987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_32
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 79
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f168d00d8d7604ed983e9972116d87ab
+      internalID: -706641914183044257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_33
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 79
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdee6a79f7bfb4466be52d4731e82f3b
+      internalID: 5699469645779753884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_34
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 79
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04292393306c440d793bda613b0652df
+      internalID: 1797219270053878102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_35
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 79
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705477c636a44485bb4101284de53a90
+      internalID: -6920666641712574939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_36
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 79
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a1147febda44b15a6afb110cf19a6b
+      internalID: -8845049441409197577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_37
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 79
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4daaf6bd58803451facc82302a8c6817
+      internalID: -9167549124522450923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_38
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 79
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b6fcf9085ec404394ee74a0c2f8266
+      internalID: -1374729528644406284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_39
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 79
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fceb0917540d344d88a61f491767e667
+      internalID: 1030227941257171044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_40
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 79
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a658e4b1ae7494bedba5af8ad85dbde2
+      internalID: -5119983994884809250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_41
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 79
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b09bb8db7ad7412caf5b90c11d8c061
+      internalID: -2154447972389974431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6614b88b56b44355ae04049605a5b08
+      internalID: 8742375287849721611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_43
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b234d191e684740b277807dcbe3c8f
+      internalID: -6862287780365794600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_44
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697ec1e11ab434a51b0b79706605898b
+      internalID: -7785819245552007078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_45
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3948058adfd384f1fb021eb0c8b13c71
+      internalID: 2468974306422186272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_46
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a73150dbeff423285e08a3a986aa49
+      internalID: 5797757786816326823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_47
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93403409d1d734d6596f629d1619b6f1
+      internalID: -8992694023046695012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_48
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135337f84208948f9a4264caad65680a
+      internalID: -2228047582557784209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_49
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a076c68ddc13b4f099da44b63bda1824
+      internalID: -4348837792128377280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_50
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6a54af4c65f45d88c023c4221ed554
+      internalID: 6371577475161865598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_51
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57410a9858b7048249b7c6c83e5625ab
+      internalID: 5905782371607488455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ace_of_spades__x1_tool_animation_png_1354839802_52
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98050afb64f50421fbe36c4b2b712fb9
+      internalID: -1926789385831226649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
