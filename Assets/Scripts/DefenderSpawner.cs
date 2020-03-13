@@ -5,19 +5,35 @@ using UnityEngine;
 public class DefenderSpawner : MonoBehaviour
 {
     Defender defender;
+    bool busySquare = false;
+    List<Vector2> busySquares = new List<Vector2>();
     private void AttemptToPlaceDefenderAt(Vector2 gridPos)
     {
         var bankDisplay = FindObjectOfType<BankDisplay>();
         int defenderCost = defender.GetCost();
         if (bankDisplay.HaveEnoughCoins(defenderCost))
         {
-            SpawnDefender(gridPos);
-            bankDisplay.SpendCoins(defenderCost);
+                foreach (Vector2 square in busySquares)
+                {
+                    if (square == gridPos)
+                    {
+                        busySquare = true;
+                    } else {
+                        busySquare = false;
+                    }
+                }
+                if (!busySquare)
+                    {
+                        SpawnDefender(gridPos);
+                        bankDisplay.SpendCoins(defenderCost);
+                    }
         }
     }
+
     private void OnMouseDown()
     {
         AttemptToPlaceDefenderAt(GetSquareClicked());
+
     }
     private Vector2 GetSquareClicked()
     {
@@ -39,5 +55,6 @@ public class DefenderSpawner : MonoBehaviour
     private void SpawnDefender(Vector2 currentPosition)
     {
         Defender newDefender = Instantiate(defender, currentPosition, Quaternion.identity) as Defender;
+        busySquares.Add(currentPosition);
     }
 }
