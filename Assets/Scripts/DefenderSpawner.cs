@@ -18,15 +18,14 @@ public class DefenderSpawner : MonoBehaviour
                     if (square == gridPos)
                     {
                         busySquare = true;
-                    } else {
-                        busySquare = false;
-                    }
+                    } 
                 }
                 if (!busySquare)
                     {
                         SpawnDefender(gridPos);
                         bankDisplay.SpendCoins(defenderCost);
                     }
+                    busySquare = false; 
         }
     }
 
