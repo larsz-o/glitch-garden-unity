@@ -7,19 +7,26 @@ public class AttackerSpawner : MonoBehaviour
     bool spawning = true;
     [SerializeField] float minSpawnDelay = 1f;
     [SerializeField] float maxSpawnDelay = 5f;
-    [SerializeField] Enemy enemyPrefab;
+    [SerializeField] GameObject[] enemyPrefabs;
+    int index; 
     IEnumerator Start()
     {
         while (spawning)
         {
             yield return new WaitForSeconds(Random.Range(minSpawnDelay, maxSpawnDelay));
-            Spawn();
+            SpawnAttacker();
         }
     }
     private void Spawn()
     {
-       Enemy newEnemy = Instantiate(enemyPrefab, transform.position, transform.rotation) as Enemy;
-       newEnemy.transform.parent = transform;
+        GameObject newEnemy = Instantiate(enemyPrefabs[index], transform.position, transform.rotation) as GameObject;
+        newEnemy.transform.parent = transform;
+    }
+    private void SpawnAttacker()
+    {
+     int length = enemyPrefabs.Length;
+     index = Random.Range(0, length);
+     Spawn();
     }
  
 }

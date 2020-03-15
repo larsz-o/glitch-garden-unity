@@ -28,8 +28,8 @@ public class LoadLevel : MonoBehaviour
 
     }
 
-    void Update()
-    {
-
-    }
+   public void LoseLevel() 
+   {
+            SceneManager.LoadScene("End");
+   }
 }

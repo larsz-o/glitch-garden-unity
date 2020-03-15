@@ -11,7 +11,18 @@ public class Health : MonoBehaviour
         health -= damage;
         if (health <= 0)
         {
+            if(GetComponent<Enemy>())
+            {
+                Enemy self = GetComponent<Enemy>();
+                int points = self.GetKillPoints();
+                FindObjectOfType<PlayerStatus>().AddToScore(points);
+                Debug.Log("added points:" + points);
+            }
             Destroy(gameObject);
         }
+    }
+    public void AddHealth(int points)
+    {
+        health += points;
     }
 }

@@ -125,6 +125,7 @@ GameObject:
   - component: {fileID: 7363593692988928182}
   - component: {fileID: 2488540056903783341}
   - component: {fileID: 1502692727128177633}
+  - component: {fileID: 5497664735034354700}
   m_Layer: 0
   m_Name: Gnome
   m_TagString: Untagged
@@ -159,7 +160,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0a71ee4650e284c05804c0b9932fb5e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cost: 100
+  cost: 250
 --- !u!114 &7363593692988928182
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -220,3 +221,16 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.1347305, y: 1.1310946}
   m_EdgeRadius: 0
+--- !u!114 &5497664735034354700
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7230816954066578435}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52ec980ea13c14c9f9c356a041f70bf6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 200
