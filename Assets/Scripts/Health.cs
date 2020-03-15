@@ -5,7 +5,6 @@ using UnityEngine;
 public class Health : MonoBehaviour
 {
     [SerializeField] int health = 500;
-    // Start is called before the first frame update
     public void DealDamage(int damage)
     {
         health -= damage;
@@ -24,5 +23,6 @@ public class Health : MonoBehaviour
     public void AddHealth(int points)
     {
         health += points;
+        GetComponent<Animator>().SetTrigger("healthAdd");
     }
 }

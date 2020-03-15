@@ -30,6 +30,6 @@ public class LoadLevel : MonoBehaviour
 
    public void LoseLevel() 
    {
-            SceneManager.LoadScene("End");
+        SceneManager.LoadScene("End");
    }
 }

@@ -46,4 +46,5 @@ MonoBehaviour:
   minSpawnDelay: 1
   maxSpawnDelay: 5
   enemyPrefabs:
-  - {fileID: 2004144128232156113, guid: 61d7cb33f0c5d46c9b228287390dd057, type: 3}
+  - {fileID: 5347695616854117791, guid: 6629425b8368b49bf8f45ce3fa58bc0b, type: 3}
+  - {fileID: 6122500255193050115, guid: a38a1080c7ffb4c108725c74834047b5, type: 3}
