@@ -15,7 +15,7 @@ public class Health : MonoBehaviour
                 Enemy self = GetComponent<Enemy>();
                 int points = self.GetKillPoints();
                 FindObjectOfType<PlayerStatus>().AddToScore(points);
-                Debug.Log("added points:" + points);
+                FindObjectOfType<LevelController>().RemoveFromEnemyCount();
             }
             Destroy(gameObject);
         }

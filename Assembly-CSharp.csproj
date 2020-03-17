@@ -54,8 +54,10 @@
      <Compile Include="Assets\Scripts\Enemy.cs" />
      <Compile Include="Assets\Scripts\Fence.cs" />
      <Compile Include="Assets\Scripts\Fox.cs" />
+     <Compile Include="Assets\Scripts\GameTimer.cs" />
      <Compile Include="Assets\Scripts\GoodStuff.cs" />
      <Compile Include="Assets\Scripts\Health.cs" />
+     <Compile Include="Assets\Scripts\LevelController.cs" />
      <Compile Include="Assets\Scripts\LoadLevel.cs" />
      <Compile Include="Assets\Scripts\Pig.cs" />
      <Compile Include="Assets\Scripts\PlayerStatus.cs" />
