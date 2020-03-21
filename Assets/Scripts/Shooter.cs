@@ -45,7 +45,6 @@ public class Shooter : MonoBehaviour
             if(isCloseEnough)
             {
                 myLaneSpawner = spawner;
-                Debug.Log(myLaneSpawner);
             }
         }
     }

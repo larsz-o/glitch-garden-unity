@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class GoodStuff : MonoBehaviour
 {
-  [SerializeField] int points;
+  [SerializeField] int points = 5;
     float movementSpeed = 1.5f;
   void Update()
     {
@@ -12,15 +12,13 @@ public class GoodStuff : MonoBehaviour
     }
   private void OnTriggerEnter2D(Collider2D otherCollider)
   {
-      Debug.Log("Hello");
       GameObject otherObject = otherCollider.gameObject;
         if (otherObject.GetComponent<Defender>())
         {
             SetMovementSpeed(0f);
             otherObject.GetComponent<Health>().AddHealth(points);
             Destroy(gameObject);
-
-        }
+        } 
     }
     public void SetMovementSpeed(float speed)
     {

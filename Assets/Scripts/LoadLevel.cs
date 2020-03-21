@@ -18,7 +18,7 @@ public class LoadLevel : MonoBehaviour
     }
     public void LoadNextScene()
     {
-            int nextScene = currentSceneIndex++;
+            int nextScene = currentSceneIndex + 1;
             SceneManager.LoadScene(nextScene);
     }
     IEnumerator WaitForTime()
@@ -31,5 +31,13 @@ public class LoadLevel : MonoBehaviour
    public void LoseLevel() 
    {
         SceneManager.LoadScene("End");
+   }
+   public void NavToMainMenu()
+   {
+       SceneManager.LoadScene(1);
+   }
+   public void RestartLevel()
+   {
+       SceneManager.LoadScene(currentSceneIndex);
    }
 }

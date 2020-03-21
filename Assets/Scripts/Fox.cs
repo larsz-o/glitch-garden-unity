@@ -11,12 +11,10 @@ public class Fox : MonoBehaviour
         {
             if (otherObject.GetComponent<Fence>())
             {
-                Debug.Log("I will jump");
                 GetComponent<Animator>().SetTrigger("jumpTrigger");
             }
             else
             {
-                Debug.Log("I am going to attack");
                 GetComponent<Enemy>().Attack(otherObject);
             }
 

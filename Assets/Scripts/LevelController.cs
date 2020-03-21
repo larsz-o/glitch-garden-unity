@@ -5,25 +5,66 @@ using UnityEngine;
 public class LevelController : MonoBehaviour
 {
     int enemyCount = 0;
-     public void AddToEnemyCount()
+    bool gameTimerDone = false;
+    bool keepCounting = true;
+    [SerializeField] GameObject winLabel;
+    [SerializeField] GameObject loseLabel;
+    [SerializeField] float waitTime = 5f;
+    [SerializeField] AudioClip loseSound;
+
+    private void Start()
     {
-        enemyCount++;
+        winLabel.SetActive(false);
+        loseLabel.SetActive(false);
+        Time.timeScale = 1f;
     }
-    public void RemoveFromEnemyCount()
+    private void CountEnemies()
     {
-       
-        enemyCount--;
+        Enemy[] enemies = FindObjectsOfType<Enemy>();
+        enemyCount = enemies.Length;
     }
-    void Update()
+    public void HandleLose()
     {
-        bool gameTimerDone = FindObjectOfType<GameTimer>().GetGameTimer();
-        if (gameTimerDone)
+        loseLabel.SetActive(true);
+        AudioSource.PlayClipAtPoint(loseSound, Camera.main.transform.position);
+        FindObjectOfType<DefenderSpawner>().EndDefenderPlacement();
+        Time.timeScale = 0f;
+        FindObjectOfType<BankDisplay>().DepleteAccount();
+        StopSpawning();
+    }
+    IEnumerator HandleWin()
+    {
+        winLabel.SetActive(true);
+        GetComponent<AudioSource>().Play();
+        yield return new WaitForSeconds(waitTime);
+        FindObjectOfType<LoadLevel>().LoadNextScene();
+    }
+
+    public void StopSpawning()
+    {
+        AttackerSpawner[] spawners = FindObjectsOfType<AttackerSpawner>();
+        foreach (AttackerSpawner spawner in spawners)
         {
-            FindObjectOfType<AttackerSpawner>().TurnOffSpawner();
-            if(enemyCount <= 0)
+            spawner.StopMySpawning();
+        }
+    }
+    public void TimerLevelFinished()
+    {
+        gameTimerDone = true;
+        StopSpawning();
+    }
+    private void Update()
+    {
+        if (keepCounting)
+        {
+            CountEnemies();
+            if (gameTimerDone && enemyCount <= 0)
             {
-                Debug.Log("End level now");
+                Debug.Log("Win!");
+                StartCoroutine(HandleWin());
+                keepCounting = false;
             }
         }
+
     }
 }

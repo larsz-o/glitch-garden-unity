@@ -9,23 +9,19 @@ public class AttackerSpawner : MonoBehaviour
     [SerializeField] float maxSpawnDelay = 5f;
     [SerializeField] GameObject[] enemyPrefabs;
     int index;
-   void Start()
+   
+    IEnumerator Start()
     {
-        if (spawning)
+        while (spawning)
         {
-            StartCoroutine(MakeAttackers());
-        }
-    }
-    IEnumerator MakeAttackers()
-    {
             yield return new WaitForSeconds(Random.Range(minSpawnDelay, maxSpawnDelay));
             SpawnAttacker();
+        }  
     }
     private void Spawn()
     {
         GameObject newEnemy = Instantiate(enemyPrefabs[index], transform.position, transform.rotation) as GameObject;
         newEnemy.transform.parent = transform;
-        FindObjectOfType<LevelController>().AddToEnemyCount();
     }
     private void SpawnAttacker()
     {
@@ -33,10 +29,10 @@ public class AttackerSpawner : MonoBehaviour
         index = Random.Range(0, length);
         Spawn();
     }
-    public void TurnOffSpawner()
+    public void StopMySpawning()
     {
         spawning = false;
-        Debug.Log("spawing off");
+        
     }
 
 }

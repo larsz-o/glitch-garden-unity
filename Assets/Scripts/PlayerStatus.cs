@@ -4,9 +4,9 @@ using UnityEngine;
 using UnityEngine.UI;
 public class PlayerStatus : MonoBehaviour
 {
-    int score = 5000;
+    [SerializeField] int score = 1000;
     [SerializeField] Text scoreText;
-    int lives = 3;
+    bool notYetPlayed = true;
     void Start()
     {
 
@@ -18,6 +18,7 @@ public class PlayerStatus : MonoBehaviour
         score += points;
         UpdateScore();
     }
+  
     public void SubtractFromScore(int points)
     {
         score -= points;
@@ -26,9 +27,10 @@ public class PlayerStatus : MonoBehaviour
     public void UpdateScore()
     {
         scoreText.text = score.ToString();
-        if (score <= 0)
+        if (score <= 0 && notYetPlayed)
         {
-            FindObjectOfType<LoadLevel>().LoseLevel();
+            FindObjectOfType<LevelController>().HandleLose();
+            notYetPlayed = false;
         }
     }
 }

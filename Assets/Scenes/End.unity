@@ -433,7 +433,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Start Game
+  m_text: You lost.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 27f8922cd8f824ab794745ac1dfeb399, type: 2}
   m_sharedMaterial: {fileID: -6565127923923293224, guid: 27f8922cd8f824ab794745ac1dfeb399,
@@ -503,7 +503,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 32.881725, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1414216108}
-    characterCount: 10
+    characterCount: 9
     spriteCount: 0
     spaceCount: 1
     wordCount: 2

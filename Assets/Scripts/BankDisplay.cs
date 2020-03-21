@@ -7,7 +7,6 @@ public class BankDisplay : MonoBehaviour
 {
     [SerializeField] int coins = 100;
     Text coinText;
-    // Start is called before the first frame update
     void Start()
     {
         coinText = GetComponent<Text>();
@@ -16,6 +15,11 @@ public class BankDisplay : MonoBehaviour
     public void AddCoins(int amount)
     {
         coins += amount;
+        UpdateDisplay();
+    }
+    public void DepleteAccount()
+    {
+        coins = 0;
         UpdateDisplay();
     }
     public bool HaveEnoughCoins(int amount)
@@ -34,7 +38,6 @@ public class BankDisplay : MonoBehaviour
             coins -= amount;
             UpdateDisplay();
         }
-
     }
     private void UpdateDisplay()
     {

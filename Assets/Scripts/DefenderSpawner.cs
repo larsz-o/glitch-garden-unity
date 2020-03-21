@@ -6,6 +6,7 @@ public class DefenderSpawner : MonoBehaviour
 {
     Defender defender;
     bool busySquare = false;
+    bool gameOn = true;
     List<Vector2> busySquares = new List<Vector2>();
     private void AttemptToPlaceDefenderAt(Vector2 gridPos)
     {
@@ -28,11 +29,16 @@ public class DefenderSpawner : MonoBehaviour
                     busySquare = false; 
         }
     }
-
+    public void EndDefenderPlacement()
+    {
+        gameOn = false;
+    }
     private void OnMouseDown()
     {
-        AttemptToPlaceDefenderAt(GetSquareClicked());
-
+        if (gameOn)
+        {
+            AttemptToPlaceDefenderAt(GetSquareClicked());
+        }
     }
     private Vector2 GetSquareClicked()
     {

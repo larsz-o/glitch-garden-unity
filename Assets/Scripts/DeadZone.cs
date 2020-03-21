@@ -12,11 +12,9 @@ public class DeadZone : MonoBehaviour
           Enemy enemy = enemyCollider.GetComponent<Enemy>();
           FindObjectOfType<PlayerStatus>().SubtractFromScore(enemy.GetKillPoints());
           Destroy(enemy.gameObject);
-          FindObjectOfType<LevelController>().RemoveFromEnemyCount();
       } else if (enemyCollider.GetComponent<GoodStuff>())
       {
         Destroy(enemyCollider.GetComponent<GoodStuff>().gameObject);
-        FindObjectOfType<LevelController>().RemoveFromEnemyCount();
       }
   }
 }

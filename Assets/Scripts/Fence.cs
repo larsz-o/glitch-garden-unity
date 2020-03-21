@@ -6,10 +6,10 @@ public class Fence : MonoBehaviour
 {
     private void OnTriggerStay2D(Collider2D otherCollider)
     {
-        Enemy enemy = otherCollider.GetComponent<Enemy>();
-        if (enemy)
-        {
-            // animate somehow
-        }
+            if(otherCollider.GetComponent<GoodStuff>())
+            {
+                otherCollider.GetComponent<GoodStuff>().SetMovementSpeed(2f);
+               
+            }
     }
 }

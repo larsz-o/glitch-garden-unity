@@ -7,7 +7,7 @@ public class Enemy : MonoBehaviour
     [Range(0f, 5f)]
     float movementSpeed = 1f;
     GameObject currentTarget;
-    [SerializeField] int killPoints;
+    [SerializeField] int killPoints = 5;
 
     void Update()
     {

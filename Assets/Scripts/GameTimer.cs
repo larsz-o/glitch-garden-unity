@@ -4,19 +4,38 @@ using UnityEngine;
 using UnityEngine.UI;
 public class GameTimer : MonoBehaviour
 {
-  [SerializeField] float levelTimeInSeconds = 10f;
-  bool timerFinished = false; 
+    [SerializeField] float levelTimeInSeconds = 30f;
+    [SerializeField] Text timerText;
+    Image timerImage;
+    bool timerStillWorking = true;
+    float currentTime;
+    void Start()
+    {
+        currentTime = levelTimeInSeconds;
+        timerImage = GetComponent<Image>();
+        timerImage.fillAmount = 1.0f;
+        timerText.text = (levelTimeInSeconds.ToString("#") + "s");
+    }
     void Update()
     {
-        GetComponent<Slider>().value = Time.timeSinceLevelLoad/levelTimeInSeconds;
-        timerFinished = (Time.timeSinceLevelLoad > levelTimeInSeconds);
-        if (timerFinished)
+        if (timerStillWorking)
         {
-            Debug.Log("Time's up");
+            currentTime -= Time.deltaTime;
+            if (currentTime <= 0.0f) 
+            {
+                EndTimer();
+                timerText.text = "Finish them!";
+            } else {
+            timerText.text = (currentTime.ToString("#") + "s");
+            float normalizedValue = Mathf.Clamp(currentTime/levelTimeInSeconds, 0.0f, 1.0f);
+            timerImage.fillAmount = normalizedValue;
+            }
+           
         }
     }
-    public bool GetGameTimer()
+    private void EndTimer()
     {
-       return timerFinished;
+        timerStillWorking = false;
+        FindObjectOfType<LevelController>().TimerLevelFinished();
     }
 }
