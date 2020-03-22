@@ -7,6 +7,7 @@ public class LoadLevel : MonoBehaviour
 {
     int currentSceneIndex;
     int timeToWait = 6;
+
     void Start()
     {
         currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
@@ -25,19 +26,28 @@ public class LoadLevel : MonoBehaviour
     {
             yield return new WaitForSeconds(timeToWait);
             LoadNextScene();
-
     }
 
-   public void LoseLevel() 
+   public void WinGame() 
    {
         SceneManager.LoadScene("End");
    }
    public void NavToMainMenu()
    {
+        Time.timeScale = 1f;
        SceneManager.LoadScene(1);
+   }
+   public void NavToSettings()
+   {
+       SceneManager.LoadScene("Settings");
    }
    public void RestartLevel()
    {
+        Time.timeScale = 1f;
        SceneManager.LoadScene(currentSceneIndex);
+   }
+   public void QuitGame()
+   {
+       Application.Quit();
    }
 }

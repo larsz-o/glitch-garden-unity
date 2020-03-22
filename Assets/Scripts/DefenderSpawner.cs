@@ -5,13 +5,14 @@ using UnityEngine;
 public class DefenderSpawner : MonoBehaviour
 {
     Defender defender;
+    GameObject defenderParent;
     bool busySquare = false;
     bool gameOn = true;
     List<Vector2> busySquares = new List<Vector2>();
     private void AttemptToPlaceDefenderAt(Vector2 gridPos)
     {
         var bankDisplay = FindObjectOfType<BankDisplay>();
-        int defenderCost = defender.GetCost();
+        float defenderCost = defender.GetCost();
         if (bankDisplay.HaveEnoughCoins(defenderCost))
         {
                 foreach (Vector2 square in busySquares)

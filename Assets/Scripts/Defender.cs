@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class Defender : MonoBehaviour
 {
-  [SerializeField] int cost = 100;
-  public void AddCoins (int amount)
+  [SerializeField] float cost = 100;
+  public void AddCoins (float amount)
   {
     FindObjectOfType<BankDisplay>().AddCoins(amount);
   }
-  public int GetCost()
+  public float GetCost()
   {
     return cost;
   }

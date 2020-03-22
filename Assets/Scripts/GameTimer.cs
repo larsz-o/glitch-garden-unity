@@ -11,7 +11,7 @@ public class GameTimer : MonoBehaviour
     float currentTime;
     void Start()
     {
-        currentTime = levelTimeInSeconds;
+        currentTime = Mathf.Round(levelTimeInSeconds * PlayerPrefsController.GetMasterDifficulty());
         timerImage = GetComponent<Image>();
         timerImage.fillAmount = 1.0f;
         timerText.text = (levelTimeInSeconds.ToString("#") + "s");
@@ -21,12 +21,15 @@ public class GameTimer : MonoBehaviour
         if (timerStillWorking)
         {
             currentTime -= Time.deltaTime;
-            if (currentTime <= 0.0f) 
+            if (currentTime <= 0) 
             {
                 EndTimer();
                 timerText.text = "Finish them!";
-            } else {
-            timerText.text = (currentTime.ToString("#") + "s");
+            } else if (currentTime > 0) {
+                if(currentTime >= 1)
+                {
+                    timerText.text = (currentTime.ToString("#") + "s");
+                }
             float normalizedValue = Mathf.Clamp(currentTime/levelTimeInSeconds, 0.0f, 1.0f);
             timerImage.fillAmount = normalizedValue;
             }

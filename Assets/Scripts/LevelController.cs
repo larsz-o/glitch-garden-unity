@@ -16,7 +16,7 @@ public class LevelController : MonoBehaviour
     {
         winLabel.SetActive(false);
         loseLabel.SetActive(false);
-        Time.timeScale = 1f;
+  
     }
     private void CountEnemies()
     {

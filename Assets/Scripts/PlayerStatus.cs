@@ -4,22 +4,22 @@ using UnityEngine;
 using UnityEngine.UI;
 public class PlayerStatus : MonoBehaviour
 {
-    [SerializeField] int score = 1000;
+    [SerializeField] float score = 1000;
     [SerializeField] Text scoreText;
     bool notYetPlayed = true;
     void Start()
     {
-
+        score = Mathf.Round(score / PlayerPrefsController.GetMasterDifficulty());
         scoreText = FindObjectOfType<ScoreBoard>().GetComponent<Text>();
         UpdateScore();
     }
-    public void AddToScore(int points)
+    public void AddToScore(float points)
     {
         score += points;
         UpdateScore();
     }
   
-    public void SubtractFromScore(int points)
+    public void SubtractFromScore(float points)
     {
         score -= points;
         UpdateScore();

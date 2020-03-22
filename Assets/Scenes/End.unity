@@ -390,7 +390,7 @@ GameObject:
   - component: {fileID: 1414216108}
   - component: {fileID: 1414216110}
   m_Layer: 5
-  m_Name: GameTitle
+  m_Name: BigTitle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -433,7 +433,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: You lost.
+  m_text: Game Over
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 27f8922cd8f824ab794745ac1dfeb399, type: 2}
   m_sharedMaterial: {fileID: -6565127923923293224, guid: 27f8922cd8f824ab794745ac1dfeb399,

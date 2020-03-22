@@ -23,6 +23,11 @@ public class Health : MonoBehaviour
     public void AddHealth(int points)
     {
         health += points;
-        GetComponent<Animator>().SetTrigger("healthAdd");
+        var animator = GetComponent<Animator>();
+        if (animator)
+        {
+            animator.SetTrigger("healthAdd");
+        }
+        
     }
 }

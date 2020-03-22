@@ -5,14 +5,15 @@ using UnityEngine.UI;
 
 public class BankDisplay : MonoBehaviour
 {
-    [SerializeField] int coins = 100;
+    [SerializeField] float coins = 100;
     Text coinText;
     void Start()
     {
+        coins = Mathf.Round(coins / PlayerPrefsController.GetMasterDifficulty());
         coinText = GetComponent<Text>();
         UpdateDisplay();
     }
-    public void AddCoins(int amount)
+    public void AddCoins(float amount)
     {
         coins += amount;
         UpdateDisplay();
@@ -22,7 +23,7 @@ public class BankDisplay : MonoBehaviour
         coins = 0;
         UpdateDisplay();
     }
-    public bool HaveEnoughCoins(int amount)
+    public bool HaveEnoughCoins(float amount)
     {
         if (amount <= coins)
         {
@@ -31,7 +32,7 @@ public class BankDisplay : MonoBehaviour
             return false;
         }
     }
-    public void SpendCoins(int amount)
+    public void SpendCoins(float amount)
     {
         if (coins >= amount)
         {
